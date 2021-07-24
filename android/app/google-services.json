@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "237709627572",
+    "firebase_url": "https://ilearn-87cb9.firebaseio.com",
+    "project_id": "ilearn-87cb9",
+    "storage_bucket": "ilearn-87cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237709627572:android:4678b1e2cb57dad7dd87e1",
+        "android_client_info": {
+          "package_name": "bavon.test.crimeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237709627572-7mhv2eh5f7c4al328e1hm9egebar5oo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXAUCq1GjgEyvjoE88wWq7ennQCNX_wMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237709627572-7mhv2eh5f7c4al328e1hm9egebar5oo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237709627572:android:a306e6460000c45bdd87e1",
+        "android_client_info": {
+          "package_name": "com.bavon.iLearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237709627572-tqqpff4nmcli4ddvc6h100qt79b11sq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bavon.iLearn",
+            "certificate_hash": "52794d0693ecb7183463d15836e367c60b1dc8b2"
+          }
+        },
+        {
+          "client_id": "237709627572-7mhv2eh5f7c4al328e1hm9egebar5oo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXAUCq1GjgEyvjoE88wWq7ennQCNX_wMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237709627572-7mhv2eh5f7c4al328e1hm9egebar5oo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2745843236005699~4043848021"
+    }
+  ],
+  "configuration_version": "1"
+}
